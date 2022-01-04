@@ -12,3 +12,6 @@ Java Exceções: Aprenda a criar, lançar e controlar exceções
 * Tratar exceções com os blocos try-catch.
 * Manipular uma exceção lançada dentro do bloco catch.
 * Tratar múltiplas exceções com mais de um bloco catch ou usando Multi-Catch utilizando o pipe (|).
+
+* Como lançar exceções: usa-se a palavra chave throw.
+* Como atribuir uma mensagem à exceção.
