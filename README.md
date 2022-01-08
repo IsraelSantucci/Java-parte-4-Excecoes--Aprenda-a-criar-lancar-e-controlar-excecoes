@@ -33,3 +33,8 @@ Erros são usados exclusivamente pela máquina virtual.
 * Como criar um bloco catch genérico usando a classe Exception;
 * Como criar uma exceção nova SaldoInsuficienteException;
 * como transformar a exceção em checked ou unchecked
+
+* Que existe um bloco finally, útil para o fechamento de recursos (como conexão);
+* Quando há um bloco finally o bloco catch é opcional;
+* Que o bloco finally é sempre executado, sem ou com exceção;
+* Como usar o try-with-resources.
