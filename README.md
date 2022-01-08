@@ -29,3 +29,7 @@ Erros são usados exclusivamente pela máquina virtual.
 * Exceções são separadas em duas grandes categorias: aquelas que são obrigatoriamente verificadas pelo compilador e as que não são verificadas.
 * As primeiras são denominadas checked e são criadas através do pertencimento a uma hierarquia que não passe por RuntimeException.
 * As segundas são as unchecked, e são criadas como descendentes de RuntimeException.
+
+* Como criar um bloco catch genérico usando a classe Exception;
+* Como criar uma exceção nova SaldoInsuficienteException;
+* como transformar a exceção em checked ou unchecked
